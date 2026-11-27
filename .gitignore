@@ -1,0 +1,15 @@
+newfile.txt
+*.log
+tg.txt
+st.txt
+ckpt_*.json
+KEYS_FOUND.txt
+VERIFIED_KEYS.txt
+batch_*.txt
+cluster_*.txt
+*.tsv
+*.csv
+ba12.html
+ba12_inst.html
+__pycache__/
+*.o
